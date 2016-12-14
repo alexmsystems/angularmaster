@@ -14,7 +14,7 @@
             '@angular/router': 'npm:@angular/router/bundles/router.umd.js',
             '@angular/forms': 'npm:@angular/forms/bundles/forms.umd.js',
             'rxjs': 'npm:rxjs',
-            'angular2-in-memory-web-api': 'npm:angular2-in-memory-web-api',
+            'angularmaster': 'npm:angularmaster',
         },
         packages: {
             app: {
